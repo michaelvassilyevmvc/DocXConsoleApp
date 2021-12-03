@@ -17,5 +17,6 @@ namespace DocXConsoleApp.Models
         public string JudgesCount { get; set; }
         public string OrganizerFirm { get; set; }
         public string SendFirm { get; set; }
+        public string Chapter { get; set; }
     }
 }
